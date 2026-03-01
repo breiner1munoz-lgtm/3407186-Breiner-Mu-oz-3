@@ -52,3 +52,12 @@ Visualizar estadísticas generales del inventario
 Interactuar con una interfaz que utiliza pestañas y ventanas modales
 
 Validar los datos ingresados para evitar errores en los registros
+
+
+
+
+## Diagrama de clases
+
+<img width="511" height="779" alt="image" src="https://github.com/user-attachments/assets/386be2a4-dfa1-498f-b490-42b7e6b3ff24" />
+
+
