@@ -11,7 +11,7 @@ Está realizado en JavaScript, utilizando Programación Orientada a Objetos (POO
 
 La idea principal del sistema es facilitar el control de los instrumentos y mantener la información ordenada, permitiendo una gestión más práctica y eficiente.
 
-##Arquitectura del sistema
+## Arquitectura del sistema
 
 El sistema se diseñó a partir de una estructura clara de clases, lo que ayuda a que el código sea fácil de entender, mantener y ampliar en el futuro.
 
