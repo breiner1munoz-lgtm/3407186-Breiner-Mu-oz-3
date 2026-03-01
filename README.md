@@ -1,10 +1,10 @@
 # 3407186-Breiner-Mu-oz-3
-🎵 Sistema de Inventario de Instrumentos Musicales
 
-👩‍💻 Autor
-Geraldin Muñoz
+## 🎵 Sistema de Inventario de Instrumentos Musicales
 
-📌 Descripción
+
+
+## Descripción
 
 Este proyecto corresponde al desarrollo de un sistema para el manejo del inventario de instrumentos musicales.
 Está realizado en JavaScript, utilizando Programación Orientada a Objetos (POO), con el propósito de organizar y controlar de forma sencilla la información relacionada con los instrumentos, los usuarios y las estadísticas del inventario.
@@ -35,7 +35,7 @@ MusicInventory (clase principal encargada de administrar el sistema)
 
 Durante el desarrollo se aplicaron los conceptos fundamentales de la Programación Orientada a Objetos, como encapsulamiento, herencia, abstracción y polimorfismo, lo que permite que el sistema sea más organizado y reutilizable.
 
-🧪 Características implementadas
+## Características implementadas
 
 El sistema permite realizar, de manera sencilla, las siguientes funciones:
 
